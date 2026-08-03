@@ -1,6 +1,6 @@
-# Say-Ho — legal pages
+# SayHo — legal pages
 
-The Privacy Policy and Terms of Use for the Say-Ho iOS app, published with GitHub Pages so the
+The Privacy Policy and Terms of Use for the SayHo iOS app, published with GitHub Pages so the
 in-app links (sign-up screen and paywall) resolve. Apple requires both to be live and reachable.
 
 - `/privacy` — Privacy Policy
